@@ -1,0 +1,1 @@
+# Al-Razzaq-AI-Labs-Part-1---Bash-Scripting
