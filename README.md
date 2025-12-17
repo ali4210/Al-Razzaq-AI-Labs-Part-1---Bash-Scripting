@@ -253,7 +253,3 @@ awk -F: '{print $1}' /etc/passwd
 **Status:** Completed
 **Skills:** Shell Scripting, Linux Admin, Cron, Text Processing, System Automation.
 
-```
-
-
-```
